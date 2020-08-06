@@ -1,4 +1,4 @@
---Install using pastebin run
+--Install using "pastebin run LDG20ynv"
 
 print("Installing simple turtle functions")
 
