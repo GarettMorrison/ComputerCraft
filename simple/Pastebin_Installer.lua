@@ -1,5 +1,7 @@
 --Install using pastebin run
 
+print("Installing simple turtle functions")
+
 local quarry = fs.open("quarry", "w")
 local str = http.get("https://raw.githubusercontent.com/GarettMorrison/ComputerCraft/master/simple/quarry.lua").readAll()
 quarry.write(str)
